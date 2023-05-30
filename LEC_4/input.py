@@ -1,0 +1,5 @@
+name = input("What is your Name?\t")
+print("Your Name is\t", name)
+branch = input("Which branch are you in?\t")
+strength = int(input("What is the strength of your Branch?"))
+print("Strength of", branch, "Branch is ", strength, ".")
